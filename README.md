@@ -54,7 +54,7 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Aaron's Banner](https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif)
+![Aaron's Banner](https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif)/  
 ![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 * 🔭 I’m currently working recreating a [new portfolio](https://aarondguyett.com).
 * ✍️ I'm writing blog posts about React and other cool things at [dev.to](https://dev.to/guyett92).
