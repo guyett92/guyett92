@@ -11,7 +11,7 @@
 * ⚡ Fun fact: ...
 -->
 
-![Aaron's Banner](./Aaron Guyett SE.gif)
+![Aaron's Banner](Aaron Guyett SE.gif)
 * 🔭 I’m currently working on designing my portfolio.
 * 🌱 I’m currently learning everything MERN, JAM, and Django in General Assembly.
 * 👯 I’m looking to collaborate on a nifty success app.
