@@ -7,9 +7,6 @@ Hi! Thanks for checking out my source code! 😄
 * ⚡ Fun fact: ...
 -->
 
-<!-- Banner -->
-[7.1]: https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif (Animated Banner) <!-- Update to contact form once portfolio is finished -->
-
 <!-- Portfolio Link -->
 [7]: https://aarondguyett.com
 
@@ -29,7 +26,7 @@ Hi! Thanks for checking out my source code! 😄
 [5]: https://apps.apple.com/us/developer/aaron-guyett/id1503146319
 [6]: https://twitter.com/GuyettAaron
 
-[![Aaron's Banner][7.1]][7]
+![Aaron's Banner](https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif)
 ![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaron</h1>
 
