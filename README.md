@@ -1,9 +1,17 @@
 <!--
+Hi! Thanks for checking out my source code! 😄
+
 **guyett92/guyett92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 * 🤔 I’m looking for help with 
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
+
+<!-- Banner -->
+[7.1]: https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif (Animated Banner) <!-- Update to contact form once portfolio is finished -->
+
+<!-- Portfolio Link -->
+[7]: https://aarondguyett.com
 
 <!-- Icons -->
 [1.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-64.png (linkedin icon)
@@ -21,7 +29,7 @@
 [5]: https://apps.apple.com/us/developer/aaron-guyett/id1503146319
 [6]: https://twitter.com/GuyettAaron
 
-![Aaron's Banner](https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif)      
+[![Aaron's Banner][7.1]][7]
 ![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaron</h1>
 
