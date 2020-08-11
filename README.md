@@ -26,7 +26,7 @@ Hi! Thanks for checking out my source code! 😄
 [5]: https://apps.apple.com/us/developer/aaron-guyett/id1503146319
 [6]: https://twitter.com/GuyettAaron
 
-![Aaron's Banner](https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif)   
+<a target="_blank" href="https://aarondguyett.com"><img src="https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif" alt="Aaron's Banner"></a>
 ![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaron</h1>
 
