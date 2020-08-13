@@ -39,15 +39,16 @@ Hi! Thanks for checking out my source code! 😄
 * 📫 Reach me here: **aaronguyett@yahoo.com**
 ---
 <h2 align="center">Social Media 📱</h2>
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/in/aarondguyett"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-64.png" alt="LinkedIn"></a>
+  <a target="_blank" href="https://dev.to/guyett92"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-64.png" alt="dev.to"></a>
+  <a target="_blank" href="https://instagram.com/aarong_aesthetics"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-64.png" alt="Instagram"></a>
+  <a target="_blank" href="https://www.hackerrank.com/aaronguyett"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-64.png" alt="HackerRank"></a>
+  <a target="_blank" href="https://apps.apple.com/us/developer/aaron-guyett/id1503146319"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-64.png" alt="Apple Developer"></a>
+  <a target="_blank" href="https://twitter.com/GuyettAaron"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-64.png" alt="Twitter"></a>
+</p>
 
-[![LinkedIn][1.1]][1]
-[![dev.to][2.1]][2]
-[![Instagram][3.1]][3]
-[![HackerRank][4.1]][4]
-[![Apple Developer][5.1]][5]
-[![Twitter][6.1]][6]
-
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Stats 🧮</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyett92&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=guyett92&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
