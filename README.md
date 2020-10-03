@@ -4,7 +4,6 @@ Hi! Thanks for checking out my source code! 😄
 **guyett92/guyett92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 * 🤔 I’m looking for help with 
 * 😄 Pronouns: ...
-* ⚡ Fun fact: ...
 -->
 
 <!-- Portfolio Link -->
@@ -36,6 +35,7 @@ Hi! Thanks for checking out my source code! 😄
 * 🌱 I’m currently learning everything [MERN](https://scsrly.herokuapp.com), JAM, and Django in General Assembly.
 * 👯 I’m looking to collaborate on a nifty success app.
 * 💬 Ask me about my secret python game.
+* ⚡ Fun fact: I used to be a competitive weightlifter.
 * 📫 Reach me here: **aaronguyett@yahoo.com**
 ---
 <h2 align="center">Social Media 📱</h2>
