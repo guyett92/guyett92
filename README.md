@@ -32,9 +32,9 @@ Hi! Thanks for checking out my source code! 😄
 
 * 🔭 I’m currently working recreating a [new portfolio](https://aarondguyett.com).
 * ✍️ I'm writing blog posts about React and other cool things at [dev.to](https://dev.to/guyett92).
-* 🌱 I’m currently learning everything [MERN](https://scsrly.herokuapp.com), JAM, and Django in General Assembly.
-* 👯 I’m looking to collaborate on a nifty success app.
-* 💬 Ask me about my secret python game.
+* 🌱 I’m currently learning everything AWS and Amplify.
+* 👯 I’m looking to work with other entrepreneurs in the REC incubator.
+* 💬 Ask me about my new company! Find out more here [Pedestal](https://www.linkedin.com/company/pedestal-app/).
 * ⚡ Fun fact: I used to be a competitive weightlifter.
 * 📫 Reach me here: **aaronguyett@yahoo.com**
 ---
