@@ -30,11 +30,12 @@ Hi! Thanks for checking out my source code! 😄
 ![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaron</h1>
 
-* 🔭 I’m currently working recreating a [new portfolio](https://aarondguyett.com).
-* ✍️ I'm writing blog posts about React and other cool things at [dev.to](https://dev.to/guyett92).
-* 🌱 I’m currently learning everything AWS and Amplify.
-* 👯 I’m looking to work with other entrepreneurs in the REC incubator.
-* 💬 Ask me about my new company! Find out more here [Pedestal](https://www.linkedin.com/company/pedestal-app/).
+* 
+* 🔭 I’m currently working on a [portfolio](https://aarondguyett.com).
+* ✍️ I'm writing blog posts about gaming, Web3, investing, and other cool things at [dev.to](https://dev.to/guyett92) and [Medium](https://medium.com/@aaronguyett).
+* 🌱 I’m currently learning everything I can about the future of blockchain and business.
+* 👯 I’m looking to work with brands and other companies to help them engage at [Cloutchain](https://cloutchain.io)
+* 💬 Ask me about what we're building! Find out more here [FutureProof](https://futureproof.io) or [Quarter Machine](https://quartermachine.io).
 * ⚡ Fun fact: I used to be a competitive weightlifter.
 * 📫 Reach me here: **aaronguyett@yahoo.com**
 ---
