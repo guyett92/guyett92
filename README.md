@@ -49,5 +49,3 @@ Hi! Thanks for checking out my source code! 😄
 
 <h2 align="center">GitHub Stats 🧮</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyett92&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=guyett92&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
