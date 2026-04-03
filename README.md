@@ -7,7 +7,7 @@ Hi! Thanks for checking out my source code! 😄
 -->
 
 <!-- Portfolio Link -->
-[7]: https://oddsandends.io
+
 
 <!-- Icons -->
 [1.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-64.png (linkedin icon)
@@ -23,10 +23,8 @@ Hi! Thanks for checking out my source code! 😄
 [3]: https://instagram.com/aaron_guyett
 [4]: https://apps.apple.com/us/developer/aaron-guyett/id1503146319
 [5]: https://twitter.com/GuyettAaron
+[6]: https://oddsandends.io
 
-<p align="center"><a target="_blank" href="https://aarondguyett.com"><img src="https://github.com/guyett92/guyett92/blob/master/Aaron%20Guyett%20SE.gif" alt="Aaron's Banner"></a></p>   
-
-![](https://komarev.com/ghpvc/?username=guyett92&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaron</h1>
 
 * 🔭 I’m currently working on [Fiatra](https://fiatra.com).
@@ -46,6 +44,3 @@ Hi! Thanks for checking out my source code! 😄
   <a target="_blank" href="https://apps.apple.com/us/developer/aaron-guyett/id1503146319"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-64.png" alt="Apple Developer"></a>
   <a target="_blank" href="https://twitter.com/GuyettAaron"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-64.png" alt="Twitter"></a>
 </p>
-
-<h2 align="center">GitHub Stats 🧮</h2>
-
